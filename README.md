@@ -2,7 +2,7 @@
 
 ## Background
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+We'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](https://github.com/fereshtehaghaei/Web-Design-Challenge/blob/master/Resources/cities.csv). In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them.
 
 ![Images/landingResize.png](Images/landingResize.png)
 
