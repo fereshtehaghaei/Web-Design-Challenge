@@ -1,8 +1,19 @@
+/* Body 
+body {
+    background-image: url("https://www.syntax.com/wp-content/uploads/2018/07/unnamed.jpg");
+    height: 850px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  */
+
 /* body */
 body {
     background-color: lightgrey;
     font-family: sans-serif;
 }
+
 
 /* Navigation bar style */
 .navigation .navbar-brand{
@@ -37,21 +48,43 @@ body {
 }
 
 /* box in index.html */
+/* Box */
 .box {
-    background-color: white;
-    padding: 20px ;
-    margin: 50px 30px 100px 40px;
-    height: auto;
-    width: auto;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  padding: 15px 40px 30px; 
+  color: #213159;
+  background-color: white;
+
 }
+
+.box-1 {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding: 15px 95px 70px; 
+    color: #213159;
+    background-color: white;
+  
+  }
+
+  .box-2 {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding: 15px 90px 200px; 
+    color: #213159;
+    background-color: white;
+  
+  }
 
 .col-6{
     background-color: white;
-    padding: 10px ;
+    padding: 5px ;
     height: auto;
     width: auto;
 
 } 
+
+
 
 /* header */
 h1 {
@@ -75,26 +108,38 @@ p {
     font-size: large;
 }
 
-/* main image in index.html */
-#main_img {
-    float: left;
-    width: 50%;
-    height:50%;
-}
+.vizualization {
+    width:65% !important;
+    height:65% !important;
+  }
+  
 
-
-/* images */
+/* images*/
 img{
-    width: 100%;
-    height:100%;
+    width: 100% ;
+    height:100% ;
 }
 
-.img-fluid {
-    max-width: 100%;
-    height: auto;
-}
 
 #figures img:hover {
-    border: 2px solid greenyellow;
+    border: 4px solid greenyellow;
 }
+
+/* Footer */
+footer {
+    background-color: rgba(1, 73, 73, 0.911);
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: #032655;
+    color: white;
+    min-height: 40px;
+    font-family: Arial, Helvetica, "sans-serif";
+    font-size: 14px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 5px;
+    }
 
