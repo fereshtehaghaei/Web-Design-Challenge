@@ -61,7 +61,8 @@ body {
 .box-1 {
     margin-top: 50px;
     margin-bottom: 60px;
-    padding: 15px 95px 70px; 
+    margin-left: 10px;
+    padding: 15px 20px 150px 30px; 
     color: #213159;
     background-color: white;
   
@@ -70,7 +71,16 @@ body {
   .box-2 {
     margin-top: 50px;
     margin-bottom: 60px;
-    padding: 15px 90px 200px; 
+    padding: 15px 20px 180px 30px; 
+    color: #213159;
+    background-color: white;
+  
+  }
+
+  .box-3 {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding: 15px 25px 180px 30px; 
     color: #213159;
     background-color: white;
   
@@ -105,7 +115,9 @@ h2 {
 /* paragraph */
 p {
     display: inline;
-    font-size: large;
+    font-size: 18px;
+    color: darkslategray;
+
 }
 
 .vizualization {
