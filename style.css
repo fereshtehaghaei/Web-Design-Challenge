@@ -55,6 +55,7 @@ body {
   padding: 15px 40px 30px; 
   color: #213159;
   background-color: white;
+  border: 20px;
 
 }
 
@@ -120,8 +121,15 @@ p {
 
 }
 
+/* Title */
 .title {
-    }
+    color: rgb(0, 128, 128);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 20px;
+  }
 
 .vizualization {
     width:65% !important;
