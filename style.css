@@ -35,8 +35,8 @@ body {
 }
 
 .dropdown-menu :hover {
-    color:#617af8c2;
-    background-color:lightgray;
+    color: white;
+    background-color:rgb(0, 128, 128);
 }
 
 .nav-link:hover{
@@ -44,7 +44,7 @@ body {
 }
 
 .navbar-brand:hover {
-    color:rgb(0,0,0);
+    color:rgb(0, 0, 0);
 }
 
 /* box in index.html */
