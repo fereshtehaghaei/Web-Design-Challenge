@@ -158,6 +158,7 @@ p {
     background-color: white;
     text-align: center;
     margin-top: 5%;
+    width: 100%;
 
     
   }
@@ -165,10 +166,11 @@ p {
 tbody :hover {
     color: rgb(47, 156, 4);
     background-attachment: fixed;
-    font-size: 14px;
+    font-size: 14.5px;
     text-align: inherit;
     font-weight: bold;
     font-family:'Arial Narrow', Arial, sans-serif;
+    
 
 }
 
@@ -177,16 +179,16 @@ th {
   position: sticky; 
   top: 0px; 
   z-index: 100;
-  background-color: rgb(3, 87, 87);
+  background-color: rgb(3, 95, 95);
   color: white;
+  font-family: 'Verdana', Geneva, Tahoma, sans-serif;
 }
 
 thead {
 
     text-align: center;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 110px 50px 50px 250px;
 }
   
