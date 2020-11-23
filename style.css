@@ -173,8 +173,12 @@ tbody :hover {
 }
 
 th {
-        position: sticky;
-        position: -webkit-sticky;
+  position: -webkit-sticky; 
+  position: sticky; 
+  top: 0px; 
+  z-index: 100;
+  background-color: rgb(3, 87, 87);
+  color: white;
 }
 
 thead {
