@@ -52,7 +52,17 @@ body {
 .box {
   margin-top: 50px;
   margin-bottom: 60px;
-  padding: 15px 40px 30px; 
+  padding: 15px 65px 30px; 
+  color: #213159;
+  background-color: white;
+  border: 20px;
+
+}
+
+.boxx {
+  margin-top: 50px;
+  margin-bottom: 60px;
+  padding: 15px 10px 60px 10px; 
   color: #213159;
   background-color: white;
   border: 20px;
