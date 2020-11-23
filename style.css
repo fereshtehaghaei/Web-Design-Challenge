@@ -158,9 +158,7 @@ p {
     background-color: white;
     text-align: center;
     margin-top: 5%;
-    width: 100%;
-
-    
+    width: 100%;   
   }
 
 tbody :hover {
@@ -169,10 +167,10 @@ tbody :hover {
     font-size: 14.5px;
     text-align: inherit;
     font-weight: bold;
-    font-family:'Arial Narrow', Arial, sans-serif;
-    
-
+    font-family:'Arial Narrow', Arial, sans-serif;  
 }
+
+
 
 th {
   position: -webkit-sticky; 
