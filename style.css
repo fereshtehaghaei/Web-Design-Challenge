@@ -1,6 +1,6 @@
 /* Body  */
 body {
-    background-image: url("https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/science/weather-forecast-background.jpg");
+    background-image: url("https://dutchreview.com/wp-content/uploads/thunderstorm-1768742_1280.jpg");
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
@@ -220,7 +220,7 @@ img{
 
 /* Footer */
 footer {
-    background-color: rgba(1, 73, 73, 0.911);
+    background-color: rgba(1, 53, 53, 0.911);
     border-top-style: solid;
     border-top-width: 3px;
     border-top-color: #032655;
