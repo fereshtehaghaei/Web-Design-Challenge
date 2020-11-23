@@ -1,19 +1,19 @@
-/* Body 
+/* Body  */
 body {
-    background-image: url("https://www.syntax.com/wp-content/uploads/2018/07/unnamed.jpg");
-    height: 850px;
+    background-image: url("https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/science/weather-forecast-background.jpg");
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: sans-serif;
   }
-  */
 
-/* body */
+
+/* body 
 body {
     background-color: lightgrey;
-    font-family: sans-serif;
 }
-
+*/
 
 /* Navigation bar style */
 .navigation .navbar-brand{
