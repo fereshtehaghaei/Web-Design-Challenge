@@ -165,7 +165,7 @@ p {
 tbody :hover {
     color: rgb(3, 87, 87);
     background-attachment: fixed;
-    font-size: 15px;
+    font-size: 12px;
     text-align: inherit;
     font-weight: bold;
     font-family:'Arial Narrow', Arial, sans-serif;
@@ -184,10 +184,9 @@ th {
 thead {
 
     text-align: center;
-    font-size: 16px;
+    font-size: 13px;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(0, 189, 189);
     padding: 110px 50px 50px 250px;
 }
   
