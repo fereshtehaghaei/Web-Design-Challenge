@@ -163,9 +163,9 @@ p {
   }
 
 tbody :hover {
-    color: rgb(3, 87, 87);
+    color: rgb(47, 156, 4);
     background-attachment: fixed;
-    font-size: 12px;
+    font-size: 14px;
     text-align: inherit;
     font-weight: bold;
     font-family:'Arial Narrow', Arial, sans-serif;
