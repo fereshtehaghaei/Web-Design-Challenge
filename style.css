@@ -8,12 +8,10 @@ body {
     font-family: sans-serif;
   }
 
-
-/* body 
-body {
-    background-color: lightgrey;
+/* My Image */
+img{
+  border-radius: 50%;
 }
-*/
 
 /* Navigation bar style */
 .navigation .navbar-brand{
