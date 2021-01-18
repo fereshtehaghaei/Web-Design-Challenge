@@ -1,5 +1,17 @@
 # Web Visualization Dashboard (Latitude)
 
+<<<<<<< HEAD
+=======
+https://fereshtehaghaei.github.io/WebDesignChallenge/index.html
+
+## Background
+
+We'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](https://github.com/fereshtehaghaei/Web-Design-Challenge/blob/master/Resources/cities.csv). In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them.
+
+![](Images/landingResize.png)
+
+### Before You Begin
+>>>>>>> 5f40c66ad5f65b5d86e7664a8bb77e66eb37f8fa
 
 
 ## Background
