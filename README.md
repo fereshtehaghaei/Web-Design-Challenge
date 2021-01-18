@@ -1,8 +1,8 @@
 # Web Visualization Dashboard (Latitude)
 
-<<<<<<< HEAD
-=======
 https://fereshtehaghaei.github.io/WebDesignChallenge/index.html
+
+
 
 ## Background
 
@@ -11,7 +11,7 @@ We'll be creating a visualization dashboard website using visualizations we've c
 ![](Images/landingResize.png)
 
 ### Before You Begin
->>>>>>> 5f40c66ad5f65b5d86e7664a8bb77e66eb37f8fa
+
 
 
 ## Background
